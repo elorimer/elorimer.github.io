@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Eric Lorimer"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Ph.D. student at Georgia Tech"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
