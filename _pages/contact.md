@@ -3,6 +3,11 @@ permalink: /contact/
 title: "Contact"
 ---
 
-# Contact
+## GTRI 
+CCRF B11-2177C
+404-407-6108
+eric.lorimer (at) gtri.gatech.edu
 
-Coming Soon
+## Georgia Tech
+HPArch Lab (Klaus KACB-2337)
+elorimer (at) gatech.edu
