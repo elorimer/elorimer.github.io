@@ -1,6 +1,6 @@
 ---
-permalink: /publications
-title: "About"
+permalink: /publications/
+title: "Publications"
 ---
 
 Coming Soon ...
