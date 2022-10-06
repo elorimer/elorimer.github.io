@@ -59,10 +59,8 @@ author:
   name   : "Eric Lorimer"
   avatar : "/assets/images/profile.jpg"
   bio    : "Ph.D. student at Georgia Tech"
+  location: "Alpharetta, GA"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://github.com/elorimer"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/elorimer"
