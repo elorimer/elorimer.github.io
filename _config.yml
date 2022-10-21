@@ -64,7 +64,11 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/elorimer"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/eric-lorimer-a6b76134"
     
+ 
 footer:
   links:
     - label: "GitHub"
